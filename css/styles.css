@@ -324,7 +324,7 @@ img {
   row-gap: 48px;
 }
 .our-portfolio-fon {
-  width: calc((100% - 48px) / 3);
+  width: calc((100% - 48px) / 4);
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -333,7 +333,7 @@ img {
   transition: box-shadow 0.3s ease;
 }
 .our-portfolio-pun {
-  padding: 32px 16px;
+  padding: 32px 0;
   border: 1px solid #e7e9fc;
   border-top: none;
 }
@@ -345,6 +345,7 @@ img {
   letter-spacing: 0.02em;
   margin: 32px 0 8px 16px;
   margin-bottom: 8px;
+  text-align: center;
 }
 .our-portfolio-text {
   color: #434455;
@@ -352,7 +353,7 @@ img {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: left;
+  text-align: center;
   margin-left: 16px;
   margin-bottom: 32px;
 }
