@@ -335,10 +335,6 @@ p {
   text-align: center;
 }
 
-.our-team-list .li {
-  display: flex;
-  flex-direction: column;
-}
 /* section portfolio */
 .section-our-portfolio {
   /* height: 1240px; */
