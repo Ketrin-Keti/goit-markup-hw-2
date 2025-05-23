@@ -311,6 +311,9 @@ p {
   border: 1px solid #e7e9fc;
   text-align: center;
   background-color: #ffffff;
+  border-top: none;
+  border-color: white;
+  border-radius: 0 0 16px 16px;
 }
 .our-team-post {
   color: #2e2f42;
