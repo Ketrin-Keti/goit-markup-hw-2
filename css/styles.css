@@ -309,6 +309,7 @@ img {
   display: flex;
   flex-direction: column;
 }
+/* section portfolio */
 .section-our-portfolio {
   /* height: 1240px; */
   padding-top: 120px;
@@ -317,7 +318,7 @@ img {
   box-sizing: border-box;
   background-color: #ffffff;
 }
-/* section portfolio */
+
 .our-portfolio-title {
   font-size: 36px;
   font-weight: 700;
