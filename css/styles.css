@@ -279,7 +279,6 @@ img {
   text-align: left;
 }
 .our-team-fon {
-  background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
@@ -362,7 +361,7 @@ img {
   letter-spacing: 0.02em;
   /* margin: 32px 0 8px 16px; */
   margin-bottom: 8px;
-  text-align: right;
+  text-align: center;
 }
 .our-portfolio-text {
   color: #434455;
